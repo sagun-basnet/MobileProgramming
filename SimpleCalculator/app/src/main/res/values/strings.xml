@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="text_placeholder">Enter First Number</string>
+    <array name="faculty">
+        <item>BBA</item>
+        <item>BBA</item>
+        <item>BBA</item>
+    </array>
+</resources>

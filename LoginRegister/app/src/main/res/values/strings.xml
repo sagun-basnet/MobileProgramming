@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string-array name="classList" >
+        <item>BCA</item>
+        <item>BBA</item>
+        <item>BSW</item>
+        <item>BIT</item>
+        <item>BBS</item>
+    </string-array>
+</resources>
